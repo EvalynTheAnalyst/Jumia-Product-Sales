@@ -1,5 +1,5 @@
 # Jumia-Product-Sales
-## Introduct ##
+## Introduction ##
 Jumia is one of Africa's leading e-commerce platforms, offering a wide variety of products including electronics, fashion, household items, and more. Operating across several African countries, Jumia connects buyers with sellers and provides services such as logistics and payment solutions.
 
 The purpose of this analysis is to gain insights into product performance on the Jumia platform. Specifically, the dashboard evaluates how product ratings, discounts, and customer reviews correlate with sales outcomes. By examining these factors, the analysis aims to identify what drives customer engagement and purchasing decisions, helping stakeholders make informed decisions about pricing strategies, product promotion, and customer experience optimization.
